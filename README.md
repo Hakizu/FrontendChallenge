@@ -35,9 +35,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Hakizu/FrontendChallenge)
-- Live Site URL: [Add live site URL here](https://pedantic-panini-6aea52.netlify.app/)
-
+- Solution URL: [Github Repo](https://github.com/Hakizu/FrontendChallenge)
+- Live Site URL: [Netlify](https://pedantic-panini-6aea52.netlify.app/)
 
 ### Built with
 
