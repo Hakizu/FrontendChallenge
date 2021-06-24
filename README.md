@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 Desktop
-![Desktop Preview](./screenshots/Desktop)
+![Desktop Preview](./screenshots/Desktop.png)
 Desktop Active
 ![Desktop Active](./screenshots/Desktop-active&hover.png)
 Mobile
