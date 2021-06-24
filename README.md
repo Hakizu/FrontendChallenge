@@ -31,7 +31,8 @@ Desktop
 Desktop Active
 ![Desktop Active](./screenshots/Desktop-active&hover.png)
 Mobile
-![Mobile](./screenshots/Mobile.png)
+![Mobile]
+(./screenshots/Mobile.png)
 
 ### Links
 
